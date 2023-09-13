@@ -1,6 +1,6 @@
 ## tiddlywiki docker
 
-> 本仓库由[Dockerfile](https://github.com/oeyoews/tiddlywiki-starter-kit/blob/main/Dockerfile) 简化而来, 完全兼容tiddlywiki的全部命令参数, 启动命令可在docker-compose.yml文件中更改
+> 本仓库由[Dockerfile](https://github.com/oeyoews/tiddlywiki-starter-kit/blob/main/Dockerfile) 简化而来, 完全兼容tiddlywiki(最新版)的全部命令参数, 启动命令可在docker-compose.yml文件中更改
 
 ## 使用方法
 
