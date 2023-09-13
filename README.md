@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-* 下载仓库的docker-compose.yml文件到一个空的目录下, 然后启动 `docker-compose up -d` 即可.默认访问端口8080,更多配置查看[docker-compose.yml](https://github.com/oeyoews/tiddlywiki-docker/blob/main/docker-compose.yml)
+* 下载仓库的[docker-compose.yml](https://github.com/oeyoews/tiddlywiki-docker/blob/main/docker-compose.yml)文件到一个空的目录下, 然后启动 `docker-compose up -d` 即可.默认访问端口8080,更多配置查看[docker-compose.yml](https://github.com/oeyoews/tiddlywiki-docker/blob/main/docker-compose.yml)
 
 ```yml
 # docker-compose.yml
