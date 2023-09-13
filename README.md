@@ -24,6 +24,6 @@ services:
     # command: ["tiddlywiki", "tiddlywiki", "--build", "index"]
 ```
 
-## TODO
+<!-- ## TODO -->
 
 <!-- * add github ci to push images to dockerhub -->

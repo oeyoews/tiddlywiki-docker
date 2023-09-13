@@ -1,6 +1,6 @@
 FROM node:alpine
-LABEL manitainer=oeyoews
-LABEL overview="tiddlywiki docker"
+LABEL manitainer=oeyoews\
+      source="https://github.com/oeyoews/tiddlywiki-docker"
 
 # 使用 pnpm
 ENV PNPM_HOME="/pnpm"
